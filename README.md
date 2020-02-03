@@ -37,3 +37,6 @@
 -	Step 4: Model adjusts according to margin of error (and system runs again! Based on previous learner) 
 -	And this is how Machine learns till absolute precision (like child learns cycling): Method is gradient decent (boosting principle)
 
+4.	Best way to Say Classification and Regression (don’t say class 0 and 1 and regg has continuous vars) - Classification: grouping of like objects based on a defined characteristic. Regression: dependent variable(s) associated with independent variable(s).
+
+5.
