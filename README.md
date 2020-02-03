@@ -48,7 +48,13 @@
 -	UNDERFIT: low variance / high bias: Data is good but formula is bad (dumb model)
 -	OVERFIT: high variance / low bias:  Data is bad (skew) 
 
-<p align="Left"><img width=100% src=https://user-images.githubusercontent.com/44467789/73653604-8f8fab80-46af-11ea-8b06-6a44d14d64aa.png>
+<p align="Left"><img width=60% src=https://user-images.githubusercontent.com/44467789/73653604-8f8fab80-46af-11ea-8b06-6a44d14d64aa.png>
   
+ <br>
   
+  6.	Unsupervised Learning: (minimal Human involvement) (unlabelled data)
+-	Mainly used in e-commerce for cross selling
+-	So if you had a dataset that had a result that showed a bunch of diverse people (diversity defined as age, race, education, income, geographic area, etc.) and you knew how much money they were spending per month on products you would group said people according to how much they spent per month regardless of those other factors.
+-	Next, you could sell them more products that other people in their same spending cluster had purchased. 
+
 
