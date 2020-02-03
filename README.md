@@ -39,4 +39,16 @@
 
 4.	Best way to Say Classification and Regression (don’t say class 0 and 1 and regg has continuous vars) - Classification: grouping of like objects based on a defined characteristic. Regression: dependent variable(s) associated with independent variable(s).
 
-5.
+5. Supervised Learning (SML): (Human supervisor) (labelled data)
+
+-	4 main processes in SML: Data preparation, Training, testing, Tuning
+-	Data preparation: good engineer does 3 imp things, 1. Skewness (check visually) 2. Data distribution (follow normal distribution) 3. Mean/medium/mode 
+-	Important concept 1 is Variance: measure of how sensitive the models is to new data.  
+-	Important concept 2 is Bias: bias is errors from erroneous assumptions (predictions). Bias is difference between average expected results from different runs of the model and the true value. Bias is accuracy of our prediction. High bias means prediction will be inaccurate. 
+-	UNDERFIT: low variance / high bias: Data is good but formula is bad (dumb model)
+-	OVERFIT: high variance / low bias:  Data is bad (skew) 
+
+<p align="Left"><img width=100% src=https://user-images.githubusercontent.com/44467789/73653604-8f8fab80-46af-11ea-8b06-6a44d14d64aa.png>
+  
+  
+
