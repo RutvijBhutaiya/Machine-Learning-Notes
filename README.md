@@ -57,4 +57,11 @@
 -	So if you had a dataset that had a result that showed a bunch of diverse people (diversity defined as age, race, education, income, geographic area, etc.) and you knew how much money they were spending per month on products you would group said people according to how much they spent per month regardless of those other factors.
 -	Next, you could sell them more products that other people in their same spending cluster had purchased. 
 
+7.	In predictions don’t only focus in prediction results. Try and check what is the variance in the predicted results. Specially how you evaluate the prediction score. E.g there is 80% probability for person A and B to commit crime. But for A has variance of 40% and B has variance of 5% from mean. Then your views will change, and you’ll arrest person B first and may be put A on hold. 
+
+8.	Stable variance > Accuracy 
+
+9.	Linear models (linear regression / logistic regression) = stable variance 
+
+
 
