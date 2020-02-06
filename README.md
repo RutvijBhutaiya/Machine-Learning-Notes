@@ -63,5 +63,8 @@
 
 9.	Linear models (linear regression / logistic regression) = stable variance 
 
+10.	When to use non-linear models (like Random Forest) – 1. more features, 2. No direct relationship between vars. 3. Structure pheromone 
+
+11.	Variance can be different for e.g size of company, 10 million and 20 billion, company both has significant different of variance in profit/loss. And hence may deviate the results (someone says it outliers).
 
 
