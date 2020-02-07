@@ -67,4 +67,13 @@
 
 11.	Variance can be different for e.g size of company, 10 million and 20 billion, company both has significant different of variance in profit/loss. And hence may deviate the results (someone says it outliers).
 
+12. Cross Validation:
+-	A statistical technique to test machine learning model performance.
+-	Steps: 1. Divide data into train and test 2. Train model 3. Test data for evaluation 4. Repeat steps 1 to 3 on different sets.
+-	Helps to avoid over fitting
+-	Method:
+##### 1. Holdout: Simple 70:30 train and test dataset. Dis-adv prone to selection bias
+##### 2. K-fold: e.g if k = 10, then data is split into 10 sub dataset, not one by one, train data on 9 sub-datasets and test on 1 sub-dataset.  Repeat 10 times with different combination of sub-datasets. Advantage, less prone to selection bias. Disadvantage very expensive. 
+-	Repeated random sun-sampling: Similar to K-fold, but in this method, the sub-datasets are not equally sized. Dis-adv is that some points are never be selected by randomness. 
+
 
